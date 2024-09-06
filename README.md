@@ -12,5 +12,12 @@ This project was inspired by Kenny Yip Coding's YouTube tutorial, which provides
 
 **Features** 🌟
 1.Smooth game mechanics and controls.
+
+
+
 2. Simple graphics and physics.
+
+
+
+
 3. Score tracking as you progress through the pipes.
