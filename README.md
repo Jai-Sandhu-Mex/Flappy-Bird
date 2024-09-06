@@ -16,4 +16,8 @@ This project was inspired by Kenny Yip Coding's YouTube tutorial, which provides
 3. Score tracking as you progress through the pipes.
 
 **Screenshot** 🎨
+
+
+
+
 ![Screenshot 2024-09-06 184934](https://github.com/user-attachments/assets/9d526c79-1bd9-4ab7-a92c-156680842f6d)
