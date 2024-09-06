@@ -15,10 +15,10 @@ This project was inspired by **Kenny Yip Coding's** YouTube tutorial, which prov
 - Score tracking as you progress through the pipes.
 
 ## Screenshot 🎨
-(![Screenshot 2024-09-06 193946](https://github.com/user-attachments/assets/c5f00bd1-013a-42d4-8955-5f7801f85bf2)
+![Screenshot 2024-09-06 193946](https://github.com/user-attachments/assets/c5f00bd1-013a-42d4-8955-5f7801f85bf2)
  <!-- Replace with the actual screenshot link -->
 
 ## How to Run 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-java.git
+   git clone https://github.com/Jai-Sandhu-Mex/flappy-bird-java.git
